@@ -68,7 +68,7 @@ public class TicTacToe {
         int p1 = 0;
         int p2 = 0;
         Scanner sc = new Scanner(System.in);
-        System.out.println("The game is started..........");
+        System.out.println("The game is started..........!");
         printBoard(board);
         while (!gameOver) {
             if (p1 == 5 && p2 == 4) {
