@@ -34,11 +34,4 @@ Player 1: Enter your move (row and column): 1 1
 Player 2: Enter your move (row and column): 0 0
 ...
 Player 1 wins!
-
-**Future Enhancements
-
-Add a computer AI to play against the user.
-
-Create a graphical user interface (GUI) version.
-
-Save and load game states.
+Thank you for reading this file.
